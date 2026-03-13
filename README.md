@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kristabellegs
-- 👀 I’m interested in web development and data science.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development, data science, or cybersecurity.
+- 👋 Hi, I’m @kbxsrc
+- 👀 I’m interested in threat intel and threat hunting.
+- 🌱 I’m currently learning cybersecurity.
+- 💞️ I’m looking to collaborate on cybersecurity.
 - 📫 How to reach me: email me @ lailingsarcon@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am currently enrolled a Computer Science student from University of the People. Anyone from the same program and university as me, say hi.
+- ⚡ Fun fact: I know how to read Cyrillic but I cannot speak Ruskij.
 
 <!---
 kristabellegs/kristabellegs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
